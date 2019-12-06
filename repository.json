@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO add-on repository",
-  "url": "https://home-assistant.io/",
+  "name": "SYTONR hassio add-on",
+  "url": "https://github.com/sytone/hassio-addons",
   "maintainer": "Sytone <github@sytone.com>"
 }
